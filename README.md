@@ -1,5 +1,5 @@
 # ¡Hola! 👋, Yo soy Juan Moncayo
-### software Student
+### Software Student
 
 ¡Hola! Soy Juan Moncayo, un apasionado estudiante de Ingeniería de Software en mi cuarto semestre, y tengo un gran amor por la programación. Mi meta es convertirme en un desarrollador fullstack, capaz de manejar tanto el frontend como el backend con destreza. Aquí encontrarás proyectos que reflejan mi viaje de aprendizaje, experimentos creativos y soluciones innovadoras. Desde algoritmos y estructuras de datos hasta el desarrollo de aplicaciones web y móviles, estoy siempre en busca de nuevos retos que me permitan mejorar y crecer. ¡Bienvenido a mi GitHub, donde cada línea de código cuenta una historia de curiosidad y dedicación!
 
