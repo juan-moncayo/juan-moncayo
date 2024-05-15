@@ -6,5 +6,4 @@
 Si quieres contactar conmigo me puedes ubicar en los siguientes links:
 
 - 📰 [LinkedIn](https://www.linkedin.com/in/juan-moncayo-19a2a7306/ "LinkedIn")
-- 📌 [Instagram](https://twitter.com/10jonmid "@10jonmid")
 - 📨 [Email](mailto:juan.moncayo627@gmail.com "juan.moncayo627@gmail.com")
