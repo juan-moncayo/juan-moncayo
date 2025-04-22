@@ -9,7 +9,7 @@ Si quieres contactar conmigo me puedes ubicar en los siguientes links:
 
 - 📰 [LinkedIn](https://www.linkedin.com/in/juan-moncayo-19a2a7306/ "LinkedIn")
 - 📨 [Email](mailto:juan.moncayo627@gmail.com "juan.moncayo627@gmail.com")
-- 🌐 [Portafolio](https://pureba-portafolio.vercel.app "Mi Portafolio")
+- 🌐 [Portafolio](juan-moncayo.vercel.app "Mi Portafolio")
 
 ## 🏆 Logros
 - Google Cloud Computing Foundations Certificate (2024)
