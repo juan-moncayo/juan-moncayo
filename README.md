@@ -1,7 +1,8 @@
 # ¡Hola! 👋, Yo soy Juan Moncayo
 ### Software Student
 
-¡Hola! Soy Juan Moncayo, un apasionado estudiante de Ingeniería de Software en mi cuarto semestre, y tengo un gran amor por la programación. Mi meta es convertirme en un desarrollador fullstack, capaz de manejar tanto el frontend como el backend con destreza. Aquí encontrarás proyectos que reflejan mi viaje de aprendizaje, experimentos creativos y soluciones innovadoras. Desde algoritmos y estructuras de datos hasta el desarrollo de aplicaciones web, estoy siempre en busca de nuevos retos que me permitan mejorar y crecer. ¡Bienvenido a mi GitHub, donde cada línea de código cuenta una historia de curiosidad y dedicación!
+¡Hola! Soy Juan Moncayo, Soy un estudiante de Ingeniería de Software y Desarrollador Fullstack Junior, apasionado por la creación de soluciones innovadoras que combinan tecnología, usabilidad y escalabilidad. Poseo habilidades destacadas para trabajar en equipo, aplicar buenas prácticas y mantener una visión actualizada en el mundo del software.
+Me caracterizo por la planificación y ejecución eficiente de estrategias, adaptadas a las necesidades reales de cada proyecto, y por un compromiso constante con el aprendizaje continuo, la innovación y la mejora de la experiencia del usuario.
 
 ## 📫 Contacto
 
@@ -12,9 +13,12 @@ Si quieres contactar conmigo me puedes ubicar en los siguientes links:
 - 🌐 [Portafolio](https://juan-moncayo.vercel.app "Mi Portafolio")
 
 ## 🏆 Logros
-- Google Cloud Computing Foundations Certificate (2024)
-- TodoCode Certificación Java (Abril, 2024)
-- TodoCode Certificación Git y GitHub (Junio, 2024)
-- BootCamp, Análisis de datos – MinTIC (Junio, 2024)
+- Google Cloud Computing Foundations Certificate (Mayo 2024)
+- Certificación en Programación con JavaScript – Movistar (2024)
+- Certificación Git y GitHub – TodoCode (Junio 2024)
+- Certificación Java – TodoCode (Abril 2024)
+- BootCamp en Análisis de Datos – MinTIC (Junio 2024)
+- Introduction to Software Engineering – IBM (Marzo 2025)
+- Amazon API Gateway for Serverless Applications – AWS (Julio 2025)
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o propuesta de colaboración.
